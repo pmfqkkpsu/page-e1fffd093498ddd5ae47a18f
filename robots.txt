@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://web.545g3o.cn/sitemap.xml
